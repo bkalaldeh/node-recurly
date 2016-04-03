@@ -1,9 +1,9 @@
 {
-  "name" : "node-recurly-updated",
-  "version" : "2.1.5",
-  "homepage" : "https://github.com/AlexisReverte/node-recurly",
+  "name" : "node-recurly-ssl3",
+  "version" : "0.1.0",
+  "homepage" : "https://github.com/bkalaldeh/node-recurly",
   "bugs" : {
-    "web" : "https://github.com/AlexisReverte/node-recurly/issues"
+    "web" : "https://github.com/bkalaldeh/node-recurly/issues"
   },
   "directories" : {
     "lib" : "./lib"
@@ -11,7 +11,7 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlexisReverte/node-recurly.git"
+    "url": "https://github.com/bkalaldeh/node-recurly/issues"
   },
   "main" : "./lib/recurly.js",
   "dependencies" : {
