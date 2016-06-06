@@ -1,5 +1,5 @@
 {
-  "name" : "node-recurly-ssl3",
+  "name" : "node-recurly-tls",
   "version" : "0.1.0",
   "homepage" : "https://github.com/bkalaldeh/node-recurly",
   "bugs" : {
